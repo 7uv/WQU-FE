@@ -1,0 +1,2 @@
+# WQU-FE
+Financial Econometrics
